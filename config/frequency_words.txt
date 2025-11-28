@@ -1,11 +1,5 @@
-胖东来
-于东来
-
 DeepSeek
 梁文锋
-
-比亚迪
-王传福
 
 大疆
 DJI
@@ -33,8 +27,6 @@ Microsoft
 NVIDIA
 黄仁勋
 
-AMD
-
 谷歌
 google
 gemini
@@ -47,6 +39,8 @@ sora
 claude
 Anthropic
 
+grok
+
 iphone
 ipad
 mac
@@ -55,6 +49,8 @@ ios
 ai
 !gai
 人工智能
+大模型
+多模态大模型
 
 自动驾驶
 
